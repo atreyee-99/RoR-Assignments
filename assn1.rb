@@ -1,3 +1,4 @@
+#slash based ascii art
 class Main
     def self.main()
         n = 6
